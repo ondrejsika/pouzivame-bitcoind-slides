@@ -1,0 +1,16 @@
+Pouzivame Bitcoind & CLI
+========================
+
+  Ondrej Sika <ondrej@ondrejsika.com>
+  Slush Pool (mining.bitcoin.cz)
+
+
+Slides
+  Connection
+
+
+Connections
+
+Questions
+
+
